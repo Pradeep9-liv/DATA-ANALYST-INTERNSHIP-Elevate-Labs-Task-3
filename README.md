@@ -1,6 +1,6 @@
 # DATA-ANALYST-INTERNSHIP-Elevate-Labs-Task-3
 
-# SQL Task 3 – Data Exploration & Analysis (Superstore Dataset)
+# SQL Task 3 - Data Exploration & Analysis (Superstore Dataset)
 
 ## Objective
 To perform end-to-end SQL-based data exploration and analysis on a retail Superstore sales dataset.  
